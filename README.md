@@ -12,7 +12,7 @@
 <!-- - 😄 Pronouns: -->
 <!-- - ⚡ Fun fact: -->
 
-I mostly work with Java (where you ask?*well that's private :p, I mean private repos*), other languages that I have used and not mentioned below are Dart and Python
+I mostly work with Java, other languages not mentioned below are Dart and Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm-26&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
