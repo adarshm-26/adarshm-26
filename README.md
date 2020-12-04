@@ -14,6 +14,6 @@
 
 I mostly work with Java, other languages not mentioned below are Dart and Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm-26&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshm-26&layout=compact&langs_count=8&hide=FreeMarker,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 > *Check out [anuraghazra's github stats api](https://github.com/anuraghazra/github-readme-stats) to get those shiny stats on your profile*
